@@ -22,8 +22,6 @@
 
 <p style="display:block;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abirdoesfrontend&show_icons=true&locale=en&layout=compact" alt="abirdoesfrontend" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abirdoesfrontend&show_icons=true&locale=en" alt="abirdoesfrontend" /></p>
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abirdoesfrontend)  
 
 ![GitHub metrics](https://metrics.lecoq.io/abirdoesfrontend)  
