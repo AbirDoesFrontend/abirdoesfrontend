@@ -24,9 +24,7 @@
 
 <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abirdoesfrontend&show_icons=true&locale=en&layout=compact" alt="abirdoesfrontend" /></div>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abirdoesfrontend)  
-
-![GitHub metrics](https://metrics.lecoq.io/abirdoesfrontend)  
+[![Abir's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abirdoesfrontend&theme=react)](https://github.com/abirdoesfrontend/github-readme-activity-graph)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abirdoesfrontend)  
 
