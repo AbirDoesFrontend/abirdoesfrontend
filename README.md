@@ -26,6 +26,6 @@
 
 [![Abir's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abirdoesfrontend&theme=react)](https://github.com/abirdoesfrontend/github-readme-activity-graph)  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abirdoesfrontend&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abirdoesfrontend&theme=github-dark-blue)](https://git.io/streak-stats)
 
 ![Profile views](https://gpvc.arturio.dev/abirdoesfrontend)  
