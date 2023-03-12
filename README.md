@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Firebase and Django 
 - 👯 I’m looking to collaborate on with any Company 
 - 💬 Ask me about Anything 
-- 📫 How to reach me: abirkhan.frontend.dev24@gmail.com 
+- 📫 How to reach me: abirdoesfrontend.coffee.tsx@gmail.com 
 - ⚡ Fun fact: I am a good listener 
 
 <h1>SKILLS : </h1> 
