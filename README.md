@@ -23,7 +23,4 @@
 <h1>MOST LANGUAGES I USED : </h1>
 
 <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abirdoesfrontend&show_icons=true&locale=en&layout=compact" alt="abirdoesfrontend" /></div>
-
-[![Abir's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=abirdoesfrontend&theme=react)](https://github.com/abirdoesfrontend/github-readme-activity-graph)  
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=abirdoesfrontend&theme=github-dark-blue)](https://git.io/streak-stats)
