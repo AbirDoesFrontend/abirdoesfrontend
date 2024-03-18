@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abir Khan</h1>
 <h3 align="center">Crafting Seamless Experiences, One Line of Code at a Time - Fullstack Developer & Webflow CMS Maestro</h3>
 
-<p><img src="https://backiee.com/static/wpdb/wallpapers/v2/1000x563/386741.jpg" align="right" alt="coding" width="400"></p>
+<img src="https://backiee.com/static/wpdb/wallpapers/v2/1000x563/386741.jpg" align="right" alt="coding" width="400">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
